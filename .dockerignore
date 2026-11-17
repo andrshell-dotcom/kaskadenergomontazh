@@ -1,0 +1,5 @@
+.git
+.gitignore
+_build.ps1
+README.md
+*.md
